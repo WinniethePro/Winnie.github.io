@@ -58009,7 +58009,7 @@ else return s.d},
 $S:369}
 A.rM.prototype={
 E(a,b){var s=null
-return new A.eK(B.eL,A.cc("You can call me JC and I'm a second-year BS Computer Science student at the Technological University of the Philippines Manila. Since I started coding, I've always wanted to be a Software Engineer but now I'm having interests in Web Developing.",B.b8,A.cP(s,s,s,s,s,s,s,s,s,s,s,40,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)}}
+return new A.eK(B.eL,A.cc("You can call me JC and I'm a second-year BS Computer Science student at the Technological University of the Philippines Manila. Since I started coding, I've always wanted to be a Software Engineer but now I'm having interests in Web Developing.",B.b8,A.cP(s,s,s,s,s,s,s,s,s,s,s,35,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)}}
 A.ul.prototype={
 E(a,b){var s=null
 return A.di(A.cc("Hello There!",s,s,s,s),B.K)}}
